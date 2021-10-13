@@ -147,7 +147,7 @@ body{
 .QRCode-countdown{
     position: absolute;
     color: rgb(255, 153, 24);
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-weight: 500;
     align-items: center;
     position: relative;

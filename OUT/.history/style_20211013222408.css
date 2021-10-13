@@ -129,7 +129,7 @@ body{
     height: 2rem;
     border-bottom: 0.1rem solid rgba(0, 0, 0, 0.06);
     font-weight: 500;
-    font-size: 1.1rem;
+    font-size: 1rem;
     letter-spacing: 0.05rem;
 }
 
@@ -147,7 +147,7 @@ body{
 .QRCode-countdown{
     position: absolute;
     color: rgb(255, 153, 24);
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-weight: 500;
     align-items: center;
     position: relative;
@@ -205,5 +205,5 @@ body{
 }
 
 .QRCode-rear{
-    padding-bottom: 2rem;
+    margin-bottom: 2rem;
 }
