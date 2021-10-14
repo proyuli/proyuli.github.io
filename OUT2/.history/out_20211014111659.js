@@ -32,7 +32,7 @@ function CountTime() {
 
 function init(){
     var name = window.prompt("请输入你的名字","张三");
-    var studentNumber = window.prompt("请输入你的学号","1010101010");
+    var studentNumber = window.prompt("请输入你的学号","");
     var college =window.prompt("请输入你的学院","计算机学院");
     document.getElementById("person").innerHTML = name + " " + studentNumber + "<br/>" + college +"/";
 }
