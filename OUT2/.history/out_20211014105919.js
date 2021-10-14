@@ -1,8 +1,3 @@
-window.onload = function(){
-    init();
-    CountTime();
-}
-
 
 var leftTime = 14400;
 
@@ -30,10 +25,4 @@ function CountTime() {
     setTimeout(CountTime, 1000);
 }
 
-function init(){
-    var name = window.prompt("请输入你的名字","张三");
-    var studentNumber = window.prompt("请输入你的学号","");
-    document.getElementsByClassName("info").getElementById("person").innerHTML = name + " " + studentNumber;
-}
-
-
+var name

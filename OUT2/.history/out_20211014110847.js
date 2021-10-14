@@ -1,6 +1,5 @@
 window.onload = function(){
-    init();
-    CountTime();
+    CountTime
 }
 
 

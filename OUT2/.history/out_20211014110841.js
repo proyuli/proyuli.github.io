@@ -1,7 +1,4 @@
-window.onload = function(){
-    init();
-    CountTime();
-}
+window.onload = function
 
 
 var leftTime = 14400;

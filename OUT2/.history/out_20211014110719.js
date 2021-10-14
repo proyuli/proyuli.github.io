@@ -1,8 +1,3 @@
-window.onload = function(){
-    init();
-    CountTime();
-}
-
 
 var leftTime = 14400;
 
