@@ -164,11 +164,11 @@ body{
 .QRCode-countdown p:first-child::before{
     content: '';
     background: no-repeat url("ld2.png");
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 1.6rem;
+    height: 1.6rem;
     background-size: contain;
     position: absolute;
-    left: -25%;
+    left: -30%;
     top: -30%;
 }
 
